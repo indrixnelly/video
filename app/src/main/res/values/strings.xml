@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="activity_pertama">Video</string>
+    <string name="teks">Selamat datang! Kami menyediakan video konseling yang dapat anda akses di halaman YouTube</string>
+    <string name="img_desc">Deskripsi Gambar</string>
+    <string name="menuju_activity_kedua">Menuju Activity Kedua</string>
+    <string name="tekan">Klik</string>
+    <string name="activity_kedua">Activity Kedua</string>
+    <string name="kembali">Kembali</string>
+</resources>
